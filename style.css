@@ -20,7 +20,7 @@
 html, body {
     -ms-overflow-style: none;
     scroll-behavior: smooth;
-    min-height: 100%;
+    min-height: 99%;
     width: 100%;
 }
 
