@@ -317,6 +317,10 @@ h2 {
 
 }
 
+h2 span {
+    color: blue;
+}
+
 h3 {
     letter-spacing: -0.5px !important;
     margin-bottom: 16px !important;
