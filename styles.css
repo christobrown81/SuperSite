@@ -304,7 +304,7 @@ h1 {
     font-weight: 700 !important;
     line-height: 1.4 !important;
     font-size: 54px !important;
-    color: blue !important;
+    color: red !important;
 }
 
 h2 {
@@ -318,7 +318,7 @@ h2 {
 }
 
 h2 span {
-    color: blue;
+    color: red;
 }
 
 h3 {
